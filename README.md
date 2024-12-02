@@ -37,10 +37,10 @@ And make sure your code editor has `EditorConfig` support.
 
 ## Contributors
 
-Bunyod Suvonov  
-Wang Zhiyuan  
-Wu Yixin  
-Yan Weijie  
+- Bunyod Suvonov  
+- Wang Zhiyuan  
+- Wu Yixin  
+- Yan Weijie  
 
 ## Copyright
 
